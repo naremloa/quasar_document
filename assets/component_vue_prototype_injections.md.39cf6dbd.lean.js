@@ -1,0 +1,1 @@
+import{o as n,c as s,b as a}from"./app.844c30b8.js";const t='{"title":"Vue原型注入(Vue Prototype Injections)","description":"","frontmatter":{},"relativePath":"component/vue_prototype_injections.md","lastUpdated":1622029080725}',e={},p=a('',5);e.render=function(a,t,e,o,c,l){return n(),s("div",null,[p])};export default e;export{t as __pageData};
