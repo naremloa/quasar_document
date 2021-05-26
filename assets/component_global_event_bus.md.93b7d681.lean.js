@@ -1,1 +1,0 @@
-import{o as n,c as s,b as a}from"./app.844c30b8.js";const e='{"title":"Global Event Bus","description":"","frontmatter":{},"relativePath":"component/global_event_bus.md","lastUpdated":1622029080725}',p={},t=a('',6);p.render=function(a,e,p,o,c,l){return n(),s("div",null,[t])};export default p;export{e as __pageData};
