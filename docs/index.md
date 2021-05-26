@@ -8,4 +8,10 @@ actionLink: /component/introduction
 footer: Copyright © 2018-present naremloa
 ---
 
-[**<center>:exclamation: 目前最新版本已更新到 v1.x :exclamation:</center>**](https://quasar.dev/start/pick-quasar-flavour)
+[**:exclamation: 目前最新版本已更新到 v1.x :exclamation:**](https://quasar.dev/start/pick-quasar-flavour)
+
+<style>
+.home-content {
+  text-align: center;
+}
+</style>
