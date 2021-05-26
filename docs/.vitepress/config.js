@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/quasar_document/',
   title: 'Quasar Framework 文檔',
   description: 'Document',
   markdown: {
