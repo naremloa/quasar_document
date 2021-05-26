@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ../img/logo.png
+heroImage: ./img/logo.png
 heroText: Quasar Framework 文檔
 tagline: v0.16
 actionText: 開始 👉
