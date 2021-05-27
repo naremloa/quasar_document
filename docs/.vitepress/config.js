@@ -1,4 +1,5 @@
 module.exports = {
+  lang: 'zh-TW',
   base: '/quasar_document/',
   title: 'Quasar Framework 文檔',
   description: 'Document',
@@ -6,7 +7,12 @@ module.exports = {
     lineNumbers: true,
   },
   themeConfig: {
+    repo: 'naremloa/quasar_document',
     docsDir: 'docs',
+
+    editLinks: true,
+    editLinkText: '編輯此頁',
+    lastUpdated: '最後更新於',
     nav: [
       { text: 'Components', link: '/component/introduction' },
     ],
