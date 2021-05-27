@@ -1,1 +1,0 @@
-import{o as a,c as r,b as e}from"./app.2148ab35.js";const s='{"title":"Stylus變數","description":"","frontmatter":{},"headers":[{"level":2,"title":"變數列表","slug":"變數列表"}],"relativePath":"component/stylus_variables.md","lastUpdated":1622105883239}',t={},l=e('',6);t.render=function(e,s,t,o,p,n){return a(),r("div",null,[l])};export default t;export{s as __pageData};
