@@ -4,3 +4,6 @@
 感謝。
 
 naremloa@gmail.com
+
+## 部署
+master branch 會自動部署到 github page
